@@ -4,7 +4,7 @@ An Excel-based data analysis project on **Vrinda Store's 2022 sales data**, buil
 
 ## 📊 Dashboard
 
-[Vrinda Store Annual Report Dashboard](dashboard.png)
+[Vrinda Store Annual Report Dashboard](Dashboard.png)
 
 ## 🛠️ Tools Used
 - Microsoft Excel
