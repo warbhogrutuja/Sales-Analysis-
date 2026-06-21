@@ -48,13 +48,14 @@ To improve Vrinda Store's sales, the business should:
 ## 📁 Project Structure
 ```
 ├── dashboard.png        # Dashboard screenshot
+|── Dataset.xlsx          #dataset that used for sales Analysis
 ├── Vrinda Store_ Data Analysis.xlsx   # Excel workbook with pivot tables, charts & formulas
 └── README.md
 ```
 
 ## 🚀 How to Use
 1. Download/clone this repository
-2. Open `Vrinda_Store_Analysis.xlsx` in Microsoft Excel
+2. Open `Vrinda Store_Data Analysis.xlsx` in Microsoft Excel
 3. Use the slicers (Month, Channel, Category) to filter and explore the dashboard interactively
 
 ## 📌 Conclusion
